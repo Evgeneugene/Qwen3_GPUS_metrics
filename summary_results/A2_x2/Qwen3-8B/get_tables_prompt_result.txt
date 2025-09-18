@@ -1,0 +1,8 @@
+ttft: 0.88
+tokens_per_second: 4.42
+total_tokens: 1451
+total_time: 1.13
+input_tokens: 1446
+output_tokens: 5
+
+"Данные"
