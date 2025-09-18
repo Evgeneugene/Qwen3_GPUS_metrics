@@ -1,0 +1,10 @@
+ttft: 12.15
+tokens_per_second: 4.43
+total_tokens: 10100
+total_time: 22.58
+input_tokens: 10000
+output_tokens: 100
+concurrent_requests: 2
+total_concurrent_time: 22.78
+
+Average metrics for 2 concurrent requests of 10000 tokens each

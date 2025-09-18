@@ -1,0 +1,8 @@
+ttft: 1.07
+tokens_per_second: 17.90
+total_tokens: 1
+total_time: 1.12
+input_tokens: 1528
+
+
+""

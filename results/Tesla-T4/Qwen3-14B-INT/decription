@@ -1,0 +1,7 @@
+На двух Tesla T4 макс длина контекста - 28к токенов где-то
+Например, для daily.txt 
+14к токенов входных 
+Time to first token (TTFT): 9.817 seconds
+Tok/sec: 16.49
+Total tokens: 767
+Total time: 56.336 seconds
