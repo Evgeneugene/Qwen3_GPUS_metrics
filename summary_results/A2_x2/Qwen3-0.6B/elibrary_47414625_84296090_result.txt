@@ -1,0 +1,28 @@
+ttft: 1.21
+tokens_per_second: 84.29
+total_tokens: 11488
+total_time: 12.15
+input_tokens: 10464
+output_tokens: 1024
+
+**Выбор силовых элементов электропривода стана ХПТ-450 ПАО «ЧТПЗ»**
+
+**Введение**  
+С увеличением требований к позиционным системам электропривода в металлургии стандартная замена оборудования не позволяет обеспечить необходимую точность и быстродействие. Для этого необходимо проводить комплексную модернизацию системы, особенно в участках переходного процесса, где последовательная частная оптимизация силовых элементов важна. В работе описаны критерии и методы выбора силовых элементов. Оптимизация на каждом участке переходного процесса производилась по критерию минимума расчетного времени. Выбор элементов осуществлялся исходя из полученных опытными путем данных о технологической установке, а именно стана ХПТ-450 на ПАО «ЧТПЗ».  
+
+**Критерии и методы выбора**  
+Изменение передающего числа редуктора позволяет повысить качество настройки системы подчиненного регулирования с учетом податливости механической части системы. Увеличение отношения длины активной части ротора к его диаметру увеличивает быстродействие системы, а, следовательно, и её точность. Результаты выбора оборудования были опробованы на опытном образце в НТЦ «Приводная техника». В результате удалось сократить время технологического процесса практически в 2 раза.
+
+**Ключевые слова:** станы холодной прокатки труб, последовательная частная оптимизация, быстродействие.
+
+---
+
+**Литература**  
+1. Law, J.D. Design and performance of field regulated reluctance machine / J.D. Law // IEEE Transactions on Industry Applications. – 1994. – Vol. 30, no. 5. – P. 1185–1192. DOI: 10.1109/28.315228  
+2. Law, J.D. Design and performance of the field regulated reluctance machine / J.D. Law, A. Chertok, T.A. Lipo // IAS Annual Meeting (IEEE Industry Applications Society). – 1992. – P. 234–241. DOI: 10.1109/IAS.1992.244289  
+3. Platonov, V.V. Mechatronics system control by criterion of minimum losses / V.V. Platonov, A.A. Imanova, A.A. Gryzlov // 2017 International Conference “Quality Management, Transport and Information Security, Information Technologies”. – 2017. – P. 339–342. DOI: 10.1109/ITMQIS.2017.8085828  
+4. Usynin, Yu.S. Sistemy upravleniya elektroprivodov: ucheb. posobie dlya vuzov [Control systems for electric drives. Textbook for universities]. Chelyabinsk, South Ural St. Univ. Publ., 2004. 328 p.  
+5. Vasil'ev, B.Yu. Relying on pulse-relay control systems for asynchronous electric drives: direct and fuzzy-logic control / B.Yu. Vasil'ev, A.E. Kozyaruk. – 2014. – № 1 (22). – С. 31–35.  
+6. Sychev, D.A. Dynamic and technological traction drive parameters optimization / D.A. Sychev, N.I. Naumovich, E.S. Khayatov. – 2015. – No. 129. – P. 987–991. DOI: 10.1016/j.proeng.2015.12.158  
+7. Klyuchev, V.I. Teoriya elektroprivoda: ucheb. dlya vuzov / V.I. Klyuchev. – М.: Энергоатомиздат, 2001. – 704 p.  
+8. Kruglov, G.A. Calculation methods of electric drives and generators based on the field regulated reluctance machine / G.A. Kruglov, A.N. Gorozhankin
