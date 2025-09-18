@@ -1,15 +1,10 @@
-ttft: 0.14
-tokens_per_second: 15.81
+ttft: 12.21
+tokens_per_second: 5.43
 total_tokens: 14061
-total_time: 6.33
+total_time: 18.43
 input_tokens: 13961
 output_tokens: 100
+concurrent_requests: 1
+total_concurrent_time: 18.49
 
-Вот краткое резюме основных тем и решений, обсуждённых в разговоре:
-
----
-
-### **1. Обзор завершённых задач**
-- **Личные теги**:
-  - Реализованы с учётом требований: личные теги видны только автору, подписчики не видят их и не могут редактировать общие теги.
-  -
+Average metrics for 1 concurrent requests of 20000 tokens each
