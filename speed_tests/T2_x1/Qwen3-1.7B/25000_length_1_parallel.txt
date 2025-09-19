@@ -1,21 +1,21 @@
-ttft: 4.26
-tokens_per_second: 15.56
-total_tokens: 14061
-total_time: 6.43
-input_tokens: 13961
+ttft: 10.45
+gen_tokens_per_second: 39.44
+total_tokens: 25111
+total_time: 12.98
+input_tokens: 25011
 output_tokens: 100
 concurrent_requests: 1
 valid_requests: 1
-total_concurrent_time: 6.50
+total_concurrent_time: 13.64
 
 Average metrics for 1/1 concurrent requests of 25000 tokens each
 
 Individual request metrics:
 
 Request 1:
-  ttft: 4.26
-  tokens_per_second: 15.56
-  total_tokens: 14061
-  total_time: 6.43
-  input_tokens: 13961
+  ttft: 10.45
+  gen_tokens_per_second: 39.44
+  total_tokens: 25111
+  total_time: 12.98
+  input_tokens: 25011
   output_tokens: 100
