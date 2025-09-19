@@ -1,0 +1,93 @@
+ttft: 1.14
+tokens_per_second: 28.38
+total_tokens: 1100
+total_time: 3.52
+input_tokens: 1000
+output_tokens: 100
+concurrent_requests: 10
+valid_requests: 10
+total_concurrent_time: 3.66
+
+Average metrics for 10/10 concurrent requests of 1000 tokens each
+
+Individual request metrics:
+
+Request 1:
+  ttft: 1.21
+  tokens_per_second: 28.70
+  total_tokens: 1100
+  total_time: 3.48
+  input_tokens: 1000
+  output_tokens: 100
+
+Request 2:
+  ttft: 1.26
+  tokens_per_second: 28.32
+  total_tokens: 1100
+  total_time: 3.53
+  input_tokens: 1000
+  output_tokens: 100
+
+Request 3:
+  ttft: 1.29
+  tokens_per_second: 28.06
+  total_tokens: 1100
+  total_time: 3.56
+  input_tokens: 1000
+  output_tokens: 100
+
+Request 4:
+  ttft: 1.23
+  tokens_per_second: 28.53
+  total_tokens: 1100
+  total_time: 3.50
+  input_tokens: 1000
+  output_tokens: 100
+
+Request 5:
+  ttft: 1.31
+  tokens_per_second: 27.88
+  total_tokens: 1100
+  total_time: 3.59
+  input_tokens: 1000
+  output_tokens: 100
+
+Request 6:
+  ttft: 0.22
+  tokens_per_second: 27.78
+  total_tokens: 1100
+  total_time: 3.60
+  input_tokens: 1000
+  output_tokens: 100
+
+Request 7:
+  ttft: 1.21
+  tokens_per_second: 28.69
+  total_tokens: 1100
+  total_time: 3.49
+  input_tokens: 1000
+  output_tokens: 100
+
+Request 8:
+  ttft: 1.22
+  tokens_per_second: 28.64
+  total_tokens: 1100
+  total_time: 3.49
+  input_tokens: 1000
+  output_tokens: 100
+
+Request 9:
+  ttft: 1.22
+  tokens_per_second: 28.55
+  total_tokens: 1100
+  total_time: 3.50
+  input_tokens: 1000
+  output_tokens: 100
+
+Request 10:
+  ttft: 1.21
+  tokens_per_second: 28.68
+  total_tokens: 1100
+  total_time: 3.49
+  input_tokens: 1000
+  output_tokens: 100
