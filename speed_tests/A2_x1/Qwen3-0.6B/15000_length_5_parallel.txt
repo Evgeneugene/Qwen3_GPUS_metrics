@@ -1,0 +1,53 @@
+ttft: 11.08
+gen_tokens_per_second: 9.54
+total_tokens: 15050
+total_time: 17.53
+input_tokens: 15002
+output_tokens: 48
+concurrent_requests: 5
+valid_requests: 5
+total_concurrent_time: 22.67
+
+Average metrics for 5/5 concurrent requests of 15000 tokens each
+
+Individual request metrics:
+
+Request 1:
+  ttft: 3.64
+  gen_tokens_per_second: 1.92
+  total_tokens: 15014
+  total_time: 10.95
+  input_tokens: 15000
+  output_tokens: 14
+
+Request 2:
+  ttft: 7.23
+  gen_tokens_per_second: 1.92
+  total_tokens: 15014
+  total_time: 14.51
+  input_tokens: 15000
+  output_tokens: 14
+
+Request 3:
+  ttft: 10.95
+  gen_tokens_per_second: 1.97
+  total_tokens: 15014
+  total_time: 18.07
+  input_tokens: 15000
+  output_tokens: 14
+
+Request 4:
+  ttft: 14.94
+  gen_tokens_per_second: 13.70
+  total_tokens: 15096
+  total_time: 21.95
+  input_tokens: 15000
+  output_tokens: 96
+
+Request 5:
+  ttft: 18.62
+  gen_tokens_per_second: 28.17
+  total_tokens: 15111
+  total_time: 22.17
+  input_tokens: 15011
+  output_tokens: 100
