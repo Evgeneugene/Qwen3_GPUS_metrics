@@ -1,53 +1,54 @@
-ttft: 9.53
-gen_tokens_per_second: 18.11
-total_tokens: 5089
-total_time: 14.88
+ttft: 9.57
+gen_tokens_per_second: 16.96
+total_tokens: 5092
+total_time: 15.41
 input_tokens: 5009
-output_tokens: 80
+output_tokens: 83
 concurrent_requests: 5
 valid_requests: 5
-total_concurrent_time: 16.58
+total_concurrent_time: 16.90
 
 Average metrics for 5/5 concurrent requests of 5000 tokens each
 
 Individual request metrics:
 
 Request 1:
-  ttft: 2.30
-  gen_tokens_per_second: 0.11
-  total_tokens: 5001
-  total_time: 11.38
+  ttft: 2.38
+  gen_tokens_per_second: 1.50
+  total_tokens: 5015
+  total_time: 12.38
   input_tokens: 5000
-  output_tokens: 1
+  output_tokens: 15
 
 Request 2:
-  ttft: 11.37
-  gen_tokens_per_second: 22.63
+  ttft: 11.22
+  gen_tokens_per_second: 20.83
   total_tokens: 5111
-  total_time: 15.79
+  total_time: 16.02
   input_tokens: 5011
   output_tokens: 100
 
 Request 3:
-  ttft: 11.34
-  gen_tokens_per_second: 22.62
+  ttft: 11.38
+  gen_tokens_per_second: 20.84
   total_tokens: 5111
-  total_time: 15.76
+  total_time: 16.18
   input_tokens: 5011
   output_tokens: 100
 
 Request 4:
-  ttft: 11.32
-  gen_tokens_per_second: 22.60
+  ttft: 11.33
+  gen_tokens_per_second: 20.82
   total_tokens: 5111
-  total_time: 15.74
+  total_time: 16.13
   input_tokens: 5011
   output_tokens: 100
 
 Request 5:
-  ttft: 11.31
-  gen_tokens_per_second: 22.58
+  ttft: 11.54
+  gen_tokens_per_second: 20.80
   total_tokens: 5111
-  total_time: 15.74
+  total_time: 16.35
   input_tokens: 5011
   output_tokens: 100
+
